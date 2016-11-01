@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kabaddi</string>
+    <string name="raiding">Raid</string>
+    <string name="superTackle">Tackle</string>
+    <string name="superRaid2">Raid +2</string>
+    <string name="superRaid3">Raid +3</string>
+    <string name="bonus">Bonus</string>
+    <string name="defend">Defend</string>
+    <string name="foul">Foul</string>
+    <string name="technical">Tech</string>
+    <string name="endGame">End Game</string>
+    <string name="result"></string>
+</resources>
